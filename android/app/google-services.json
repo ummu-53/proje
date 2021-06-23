@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "91119899348",
+    "project_id": "mobilprogramlama-81b08",
+    "storage_bucket": "mobilprogramlama-81b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91119899348:android:b44ef74b6e0cc7406d6141",
+        "android_client_info": {
+          "package_name": "com.example.ummugulsum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91119899348-ugfec9sautrf3o7b0hvr3hkh8fkplus3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ummugulsum",
+            "certificate_hash": "967b13c37a6dc5eb023e9989126feef87b0cf3f9"
+          }
+        },
+        {
+          "client_id": "91119899348-74mjnhn3c7vpu8n6ud1n032k9ff6suer.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7FkQlnwgSJHlgQ0Rpu__JNCFJ9UZrs8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91119899348-74mjnhn3c7vpu8n6ud1n032k9ff6suer.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
